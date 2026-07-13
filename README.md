@@ -1,5 +1,5 @@
 # PINNmultiphysicsSOAP
-Code for: Coupling-Robust Accuracy in Multiphysics PINNs via Kronecker-Preconditioned Optimization
+Code for: [Coupling-Robust Accuracy in Multiphysics PINNs via Kronecker-Preconditioned Optimization](https://arxiv.org/abs/2605.23391)
 
 E-mail:youngjae1@korea.ac.kr
 
